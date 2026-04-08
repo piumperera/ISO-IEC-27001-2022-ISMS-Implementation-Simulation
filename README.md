@@ -3,6 +3,7 @@ This project simulates an Information Security Consulting engagement focused on 
 It follows a structured approach similar to real-world consulting projects, including security assessments, risk analysis, and development of key ISMS documentation.
 
 🎯 Key Features
+
 Conducted a Gap Analysis against ISO/IEC 27001:2022 requirements
 Developed a Risk Register using asset–threat–vulnerability mapping
 Created a Risk Treatment Plan aligned with Annex A controls
